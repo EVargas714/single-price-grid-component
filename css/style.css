@@ -94,10 +94,6 @@ main p {
     text-align: center;
 }
 
-.full-access {
-    /* margin-bottom: 1.5rem; */
-}
-
 /******* BOTTOM SECTION *******/
 .bottom {
     background-color:hsla(179, 62%, 43%, 0.8);
