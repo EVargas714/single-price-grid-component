@@ -28,7 +28,7 @@ body {
     grid-template-columns: 1fr;
 }
 
-.main,
+main,
 .middle,
 .bottom {
     display: flex;
@@ -49,18 +49,18 @@ p {
 
 
 /******* TOP SECTION *******/
-.main {
+main {
     background-color: white;
 }
-.main h1 {
+main h1 {
     color: hsl(179, 62%, 43%);
 }
 
-.main h2 {
+main h2 {
     color: hsl(71, 73%, 54%);
 }
 
-.main p {
+main p {
     color: hsl(218, 22%, 67%);
 }
 
@@ -134,7 +134,7 @@ p {
     }
 
     /******* TOP SECTION *******/
-    .main {
+    main {
         grid-column: 1/3;
     }
 
